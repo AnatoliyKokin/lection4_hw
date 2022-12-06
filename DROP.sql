@@ -1,0 +1,3 @@
+DROP TABLE currencies CASCADE;
+DROP TABLE deposits CASCADE;
+DROP TABLE persons;
